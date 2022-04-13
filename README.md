@@ -42,6 +42,7 @@
 <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=30 width=95/>
 <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height=30 width=95/>
 <img alt="AWS Badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height=30 width=95/>
-<img alt="Bash Badge" src="	https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height=30 width=95/>
+<img alt="Bash Badge" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height=30 width=95/>
+
 </p>
 
