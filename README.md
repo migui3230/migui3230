@@ -26,7 +26,17 @@
 
 <a href=#technologies>![Technologies](Assets/inter-technologies.png)</a>
 
-
+<p>
+<img alt="HTML5 Badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=30 width=95/> 
+<img alt="CSS3 Badge" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height=30 width=95/> 
+<img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23FFDC28.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=95/>
+<img alt="TypeScript Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height=30 width=95/>
+<img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=95/>
+<img alt="Next.js badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height=30 width=95/>
+<img alt="Python badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height=30 width=95/>
+<img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height=30 width=95/>
+<img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=30 width=95/>
+</p>
 
 #
 
