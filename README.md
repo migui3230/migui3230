@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=33&lines=Hello!+I'm+Miguel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=33&color=FFFFFF&lines=Hello!+I'm+Miguel)](https://git.io/typing-svg)
 #
 ### I'm a computer science student, aspiring software engineer, and a tech lead at my college's Google Developer Student Club!
 
