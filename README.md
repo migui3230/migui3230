@@ -8,6 +8,5 @@
 
 ### Connect with me!
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width=" 22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/linkedin.svg" />][linkedin]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
