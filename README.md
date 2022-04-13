@@ -14,6 +14,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-miguel-sarenas/)
 <br>
+<br>
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migui3230&show_icons=true&theme=radical)
 <br>
