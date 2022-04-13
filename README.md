@@ -10,7 +10,7 @@
 
 <br>
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migui3230&show_icons=true&theme=gruvbox)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migui3230&show_icons=true&theme=radical)
 
 ### Connect with me!
 
