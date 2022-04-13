@@ -1,6 +1,6 @@
-## Hello! I'm Miguel
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Miguel)](https://git.io/typing-svg)
 
-<br>
+#
 
 ### I'm a computer science student, aspiring software engineer, and a tech lead at my college's Google Developer Student Club!
 
@@ -8,19 +8,29 @@
 - 🔭 I’m currently working on web3 repos in the Solana ecosystem!
 - 🌱 I’m currently learning React
 
-<br>
+#
 
-### Connect with me!
+<a href=#portfolio>![Portfolio and Social](Assets/inter-portfolio.png)</a> <p id="github-stats"><p>
+<!-- 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-miguel-sarenas/) -->
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-miguel-sarenas/)
-<br>
-<br>
+<a href="https://www.linkedin.com/in/jose-miguel-sarenas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=95 alt="Linkedin badge">
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migui3230&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migui3230&theme=radical)
+#
+
+<a href=#github-stats>![Github Stats](Assets/inter-github-stats.png)</a> <p id="technologies"><p>
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=migui3230&hide_border=true&show_icons=true&count_private=true&line_height=24&theme=radical"/> 
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migui3230&hide_border=true&card_width=317&layout=compact&langs_count=4&theme=radical"/>
+
+#
+
+<a href=#technologies>![Technologies](Assets/inter-technologies.png)</a>
 
 
+
+#
 
 ### Languages and Tools:
 
