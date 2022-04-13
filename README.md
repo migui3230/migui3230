@@ -1,5 +1,7 @@
 ## Hello! I'm Miguel
 
+<br>
+
 ### I'm a computer science student, aspiring software engineer, and a tech lead at my college's Google Developer Student Club!
 
 
@@ -7,7 +9,7 @@
 - 🌱 I’m currently learning React
 
 <br>
-<br>
+
 
 ### Connect with me!
 
