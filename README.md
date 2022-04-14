@@ -49,11 +49,11 @@
 #
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](https://github.com/solana-developers/solana-cookbook/pull/320) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-2. 🗣 Commented on [#197](https://github.com/solana-developers/solana-cookbook/issues/197) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-3. 🗣 Commented on [#189](https://github.com/michaelhly/solana-py/issues/189) in [michaelhly/solana-py](https://github.com/michaelhly/solana-py)
-4. 🎉 Merged PR [#51](https://github.com/Trevor-Fagan/Mojito/pull/51) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
-5. 💪 Opened PR [#51](https://github.com/Trevor-Fagan/Mojito/pull/51) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
+1. ❌ Closed PR [#320](https://github.com/solana-developers/solana-cookbook/pull/320) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+2. 💪 Opened PR [#320](https://github.com/solana-developers/solana-cookbook/pull/320) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+3. 🗣 Commented on [#197](https://github.com/solana-developers/solana-cookbook/issues/197) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+4. 🗣 Commented on [#189](https://github.com/michaelhly/solana-py/issues/189) in [michaelhly/solana-py](https://github.com/michaelhly/solana-py)
+5. 🎉 Merged PR [#51](https://github.com/Trevor-Fagan/Mojito/pull/51) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
 <!--END_SECTION:activity-->
 
   
