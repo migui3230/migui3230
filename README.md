@@ -49,11 +49,11 @@
 #
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/michaelhly/solana-py/issues/189) in [michaelhly/solana-py](https://github.com/michaelhly/solana-py)
-2. 🗣 Commented on [#197](https://github.com/solana-developers/solana-cookbook/issues/197) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-3. 💪 Opened PR [#321](https://github.com/solana-developers/solana-cookbook/pull/321) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-4. ❌ Closed PR [#320](https://github.com/solana-developers/solana-cookbook/pull/320) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-5. 💪 Opened PR [#320](https://github.com/solana-developers/solana-cookbook/pull/320) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+1. 🗣 Commented on [#78](https://github.com/solana-labs/solana-pay/issues/78) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
+2. 🗣 Commented on [#189](https://github.com/michaelhly/solana-py/issues/189) in [michaelhly/solana-py](https://github.com/michaelhly/solana-py)
+3. 🗣 Commented on [#197](https://github.com/solana-developers/solana-cookbook/issues/197) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+4. 💪 Opened PR [#321](https://github.com/solana-developers/solana-cookbook/pull/321) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+5. ❌ Closed PR [#320](https://github.com/solana-developers/solana-cookbook/pull/320) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 <!--END_SECTION:activity-->
 
   
