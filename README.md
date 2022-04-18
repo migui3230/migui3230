@@ -49,11 +49,11 @@
 #
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/Trevor-Fagan/Mojito/pull/52) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
-2. 🗣 Commented on [#78](https://github.com/solana-labs/solana-pay/issues/78) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
-3. 💪 Opened PR [#120](https://github.com/solana-labs/solana-pay/pull/120) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
+1. 🎉 Merged PR [#53](https://github.com/Trevor-Fagan/Mojito/pull/53) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
+2. 💪 Opened PR [#53](https://github.com/Trevor-Fagan/Mojito/pull/53) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
+3. 💪 Opened PR [#52](https://github.com/Trevor-Fagan/Mojito/pull/52) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
 4. 🗣 Commented on [#78](https://github.com/solana-labs/solana-pay/issues/78) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
-5. 🗣 Commented on [#189](https://github.com/michaelhly/solana-py/issues/189) in [michaelhly/solana-py](https://github.com/michaelhly/solana-py)
+5. 💪 Opened PR [#120](https://github.com/solana-labs/solana-pay/pull/120) in [solana-labs/solana-pay](https://github.com/solana-labs/solana-pay)
 <!--END_SECTION:activity-->
 
   
