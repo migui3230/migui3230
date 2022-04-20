@@ -48,7 +48,8 @@
 
 # 
   
-### Recent GitHub Activity [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+### Recent GitHub Activity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#324](https://github.com/solana-developers/solana-cookbook/issues/324) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 2. 🗣 Commented on [#238](https://github.com/solana-developers/solana-cookbook/issues/238) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
