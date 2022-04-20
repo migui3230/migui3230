@@ -48,7 +48,7 @@
 
 # 
   
-### Recent GitHub Activity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### Recent GitHub Activity 💯
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#324](https://github.com/solana-developers/solana-cookbook/issues/324) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
