@@ -46,8 +46,9 @@
 
 </p>
 
-# Recent GitHub Acitivyt
+# 
   
+## Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#324](https://github.com/solana-developers/solana-cookbook/issues/324) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 2. 🗣 Commented on [#238](https://github.com/solana-developers/solana-cookbook/issues/238) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
