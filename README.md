@@ -51,11 +51,11 @@
 ### Recent GitHub Activity 💯
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/migui3230/Property-Mania/issues/1) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
-2. 🗣 Commented on [#321](https://github.com/solana-developers/solana-cookbook/issues/321) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-3. ❗️ Closed issue [#27](https://github.com/Trevor-Fagan/Mojito/issues/27) in [Trevor-Fagan/Mojito](https://github.com/Trevor-Fagan/Mojito)
-4. 🗣 Commented on [#321](https://github.com/solana-developers/solana-cookbook/issues/321) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-5. 🗣 Commented on [#324](https://github.com/solana-developers/solana-cookbook/issues/324) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+1. ❗️ Opened issue [#4](https://github.com/migui3230/Property-Mania/issues/4) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+2. ❗️ Opened issue [#3](https://github.com/migui3230/Property-Mania/issues/3) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+3. 💪 Opened PR [#2](https://github.com/migui3230/Property-Mania/pull/2) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+4. ❗️ Opened issue [#1](https://github.com/migui3230/Property-Mania/issues/1) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+5. 🗣 Commented on [#321](https://github.com/solana-developers/solana-cookbook/issues/321) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 <!--END_SECTION:activity-->
 
   
