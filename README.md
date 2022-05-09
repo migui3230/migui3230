@@ -51,11 +51,11 @@
 ### Recent GitHub Activity 💯
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/migui3230/Property-Mania/issues/17) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
-2. ❌ Closed PR [#5](https://github.com/migui3230/Property-Mania/pull/5) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
-3. 💪 Opened PR [#16](https://github.com/migui3230/Property-Mania/pull/16) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
-4. ❗️ Opened issue [#15](https://github.com/migui3230/Property-Mania/issues/15) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
-5. ❗️ Opened issue [#14](https://github.com/migui3230/Property-Mania/issues/14) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+1. ❗️ Opened issue [#18](https://github.com/migui3230/Property-Mania/issues/18) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+2. ❗️ Opened issue [#17](https://github.com/migui3230/Property-Mania/issues/17) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+3. ❌ Closed PR [#5](https://github.com/migui3230/Property-Mania/pull/5) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+4. 💪 Opened PR [#16](https://github.com/migui3230/Property-Mania/pull/16) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
+5. ❗️ Opened issue [#15](https://github.com/migui3230/Property-Mania/issues/15) in [migui3230/Property-Mania](https://github.com/migui3230/Property-Mania)
 <!--END_SECTION:activity-->
 
   
