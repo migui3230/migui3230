@@ -1,11 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=33&color=FFFFFF&lines=Hello!+I'm+Miguel)](https://git.io/typing-svg)
 #
-### I'm a computer science student, aspiring software engineer, and a tech lead at my college's Google Developer Student Club!
+### New Grad SWE :)
 
 
-- 🔭 I’m currently working on web3 repos in the Solana ecosystem!
-- 🌱 I’m currently learning React
+- 🔭 Building in AI
+- 🌱 Currently learning next.js app router
 
 #
 
