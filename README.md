@@ -1,13 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=33&color=FFFFFF&lines=Hello!+I'm+Miguel)](https://git.io/typing-svg)
 #
-### New Grad SWE :)
-
-
-- 🔭 Building in AI
-- 🌱 Currently learning next.js app router
-
-#
 
 <a href=#portfolio>![Portfolio and Social](Assets/inter-portfolio.png)</a> <p id="github-stats"><p>
 <!-- 
